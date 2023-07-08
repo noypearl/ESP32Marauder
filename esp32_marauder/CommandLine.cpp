@@ -640,7 +640,7 @@ void CommandLine::runCommand(String input) {
             display_obj.clearScreen();
             menu_function_obj.drawStatusBar();
           #endif
-          wifi_scan_obj.StartScan(WIFI_ATTACK_RICK_ROLL, TFT_YELLOW);
+          wifi_scan_obj.StartScan(WIFI_ATTACK_SMALL_TIK, TFT_YELLOW);
         }
         else {
           Serial.println("Attack type not properly defined");
