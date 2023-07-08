@@ -38,6 +38,7 @@
 #define LV_JOIN_WIFI 13
 #define LV_ADD_SSID 14
 #define WIFI_ATTACK_BEACON_LIST 15
+#define WIFI_ATTACK_SMALL_TIK 30
 
 /*
 PROGMEM void my_disp_flush(lv_disp_drv_t *disp, const lv_area_t *area, lv_color_t *color_p);
